@@ -1,0 +1,23 @@
+.container {
+    width: 100%;
+    margin:0;
+    padding:0;
+}
+.Bubble-hero{
+    width:100%;
+    border-radius:0px;
+}
+.hero {
+    width:100%;
+    border-radius:0px;
+}
+
+aside.left {
+    text-align:center;
+    float: inherit;
+}
+
+aside.right {
+    text-align: center;
+    float: inherit;
+}

@@ -1,0 +1,66 @@
+body {
+    background:url('../images/space-background.png');
+    background-size: cover;
+    background-position: absolute;
+    background-attachment:fixed;
+    
+}
+
+.container {
+    width: 600px;
+    margin: 100px auto;
+    background: #FFF;
+    border-radius: 1.25rem 1.25rem 0 0;
+}
+
+h1,h2 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #e22f8f;
+    margin-bottom: 32px;
+}
+
+h1 {
+    font-size:2.5rem;
+}
+
+h2 {
+    font-size:2rem;
+}
+
+.hero{
+    width: 100%;
+    border-radius: 1.25rem 1.25rem 0 0;
+}
+.Bubble-hero {
+    width: 100%;
+    border-radius: 1.25rem 1.25rem 0 0;
+}
+
+aside.left {
+    float:left;
+}
+
+aside.right {
+    float:right;
+}
+
+section.intro {
+    background: #FFF;
+}
+
+section.intro, section.contact {
+    padding: 2.5rem;
+}
+
+section.contact{
+    background: rgb(212, 208, 208);
+}
+
+aside {
+    margin-right: 1.5rem;
+}
+
+iframe {
+    width: -webkit-fill-available;
+}
